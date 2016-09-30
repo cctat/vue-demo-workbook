@@ -1,5 +1,6 @@
 # workbook
 
+> 学习vue过程中接触的项目源码
 > 原文地址：[vue+vuex+vue-router 强撸一发暗黑风 markdown 日记应用](https://segmentfault.com/a/1190000005787179/)
 
 ## Build Setup
